@@ -1,6 +1,4 @@
 FirstApp::Application.routes.draw do
-  get "pages/time"
-
   # The priority is based upon order of creation:
   # first created -> highest priority.
 
